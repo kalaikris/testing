@@ -1,0 +1,49 @@
+.modal-close-icon{
+    width: 20px;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    cursor: pointer;
+    z-index: 1;
+}
+.modal-body-inner{
+    width: 80%;
+    margin: 30px auto 15px;
+}
+.modal-body-inner > .modal-title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.modal-title h2{
+    font: 34px/40px var(--font-ex-strong);
+}
+.add-department-input-form{
+    margin-bottom: 50px;
+}
+.upload-file-label{
+    display: inline-block;
+    cursor: pointer;
+}
+.upload-file-label > p{
+    font: 14px/20px var(--font-strong);
+    color: #4079E5;
+    margin: 0px;
+}
+/* media query */
+@media screen and (max-width:550px){
+  .modal-body-inner{
+    width: 90%;
+    margin: 30px auto 20px;
+  }
+  .add-department-input-form {
+    margin-bottom: 40px;
+  }
+}
+@media screen and (max-width:375px){
+    .modal-body-inner {
+        width: 95%;
+    }
+    .modal-title h2 {
+        font: 30px/35px var(--font-ex-strong);
+    }
+}
