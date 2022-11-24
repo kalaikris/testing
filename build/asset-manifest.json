@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02c74672.css",
+    "main.js": "/static/js/main.cb65d198.js",
+    "static/js/787.2c438de5.chunk.js": "/static/js/787.2c438de5.chunk.js",
+    "static/media/FontsFree-Net-SFProDisplay-Semibold.ttf": "/static/media/FontsFree-Net-SFProDisplay-Semibold.e563de5c65c7d63f04e7.ttf",
+    "static/media/SFPRODISPLAYMEDIUM.OTF": "/static/media/SFPRODISPLAYMEDIUM.b85d841dacb040b84951.OTF",
+    "static/media/SFPRODISPLAYBOLD.OTF": "/static/media/SFPRODISPLAYBOLD.b1f4d2c69fa808ebca12.OTF",
+    "static/media/SFPRODISPLAYREGULAR.OTF": "/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/file-upload-img.svg": "/static/media/file-upload-img.c7f69187f46b11878f625871aa815775.svg",
+    "static/media/department-active.svg": "/static/media/department-active.a71a6650077b90ee747490bff65abb6a.svg",
+    "static/media/call.svg": "/static/media/call.f1f1e7d25d92e898bf4931c5d95b4a03.svg",
+    "static/media/logout.svg": "/static/media/logout.a8c2da98e4752bd3c0e0.svg",
+    "static/media/mail.svg": "/static/media/mail.9f5a1093b46228f6508657452237f7db.svg",
+    "static/media/profile-active.svg": "/static/media/profile-active.b7ebb4f0c6902f161c10.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.17bb8a5908fabf1f65d708326fe89557.svg",
+    "static/media/calender.svg": "/static/media/calender.2ab33d3f0e5e0679e258.svg",
+    "static/media/employee-active.svg": "/static/media/employee-active.585fc64eb2471a30a9464e53db413965.svg",
+    "static/media/logo.svg": "/static/media/logo.20721e0e060edfcb0efd16898c596074.svg",
+    "static/media/search.svg": "/static/media/search.ab1ba2ad5ad9fadc1540a4416c2c4caa.svg",
+    "static/media/down-arrow.svg": "/static/media/down-arrow.213566f04623fd3adc58.svg",
+    "static/media/back-arrow.svg": "/static/media/back-arrow.3547c8e2ea9984feb87cc533012c53a0.svg",
+    "index.html": "/index.html",
+    "static/media/addicon.svg": "/static/media/addicon.b57e145bade393178a79ecf35662b243.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.02c74672.css.map": "/static/css/main.02c74672.css.map",
+    "main.cb65d198.js.map": "/static/js/main.cb65d198.js.map",
+    "787.2c438de5.chunk.js.map": "/static/js/787.2c438de5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c74672.css",
+    "static/js/main.cb65d198.js"
+  ]
+}
